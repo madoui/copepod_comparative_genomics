@@ -1,1 +1,1 @@
-# copepod_comparative_genomics
+# copepod comparative genomics
